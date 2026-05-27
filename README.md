@@ -18,6 +18,10 @@ An adherence-neutral nutrition and weight tracking app. Log what you eat, track 
 
 This is an early beta. Things will break, change, and improve. Feedback and bug reports are welcome via [Discord](https://discord.gg/qDCXcrFGwz).
 
+### Download
+
+[Latest APK](https://macrophase.github.io/)
+
 ### License
 
 MacroPhase is **AGPL-licensed** software. The source code will be published to this repository once the beta period concludes.
