@@ -7,6 +7,8 @@ An adherence-neutral nutrition and weight tracking app. Log what you eat, track 
 ### Features
 
 - **Food logging** — barcode scanner, AI camera scan, manual search (OpenFoodFacts + CIQUAL)
+- **Micronutrient tracking** — 7-day averages for 20+ vitamins and minerals. Fiber, sugar, sodium, potassium, iron, calcium, vitamin D, omega-3, and more.
+- **Time-based food picks** — the app learns when you typically eat what. Open the log at 2pm and your usual lunch picks are right there.
 - **Weight tracking** — trend weight via EWMA, scale weight logging, Health Connect sync
 - **Dynamic TDEE** — 14-day rolling window, non-linear tissue density, adaptive confidence scoring
 - **AI Coach** — multi-turn conversation with function calling (Gemini AI Studio API, key required, grab for free @ https://aistudio.google.com)
